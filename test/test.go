@@ -2,7 +2,7 @@ package test
 
 import "fmt"
 
-func test(){
+func Test(){
      fmt.Println("test")
 
 }
